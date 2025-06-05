@@ -12,4 +12,4 @@ flash:
 	fi
 
 tty:
-	screen /dev/ttyACM1 115200
+	screen /dev/ttyACM0 115200
